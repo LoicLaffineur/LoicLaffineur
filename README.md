@@ -23,6 +23,6 @@
 
 ## 📫 Contact
 
-[![Portfolio][(https://img.shields.io/badge/Portfolio-Notion-blue)](https://laffineur-loic-portfolio.notion.site/Page-d-Accueil-26bcf4536432807fb4b8f928631031b7)]
+[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-blue)](https://laffineur-loic-portfolio.notion.site/Page-d-Accueil-26bcf4536432807fb4b8f928631031b7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/lo%C3%AFc-laffineur-8a49bb180/))
-[![Email](https://img.shields.io/badge/Email-Me-red)](mailto:laffineur.loic@gmail.com)]
+[![Email](https://img.shields.io/badge/Email-Me-red)](mailto:laffineur.loic@gmail.com)
