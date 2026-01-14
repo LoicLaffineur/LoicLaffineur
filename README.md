@@ -23,6 +23,7 @@ I build end‑to‑end data solutions — from exploration to deployment — usi
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoicLaffineur&layout=compact)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoicLaffineur&show_icons=true)
 
 ---
