@@ -15,8 +15,9 @@ I build end‑to‑end data solutions — from exploration to deployment — usi
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Churn Prediction](https://github.com/LoicLaffineur/Churn_Prediction_Telco) | Customer churn prediction with model explainability (recall: 0.80) | Python, Logistic Regression, XGBoost, SHAP |
+| [Customer Segmentation (UCI Online Retail)](https://github.com/LoicLaffineur/Online-Retail-Customer-Segmentation) | RFM analysis and K‑Means clustering to identify actionable customer segments | Python, Pandas, Scikit‑learn, PCA, Matplotlib |
+| [Pizza Sales Dashboard](https://github.com/LoicLaffineur/PowerBI-Pizza-Sales-Dashboard) | Interactive Power BI dashboard for sales insights, KPIs, and product performance | Power BI, DAX, Data Modeling |
 | [CIFAR‑10 Classification](https://github.com/LoicLaffineur/Cifar_10_CNN) | Image classification using CNNs and transfer learning (86% accuracy) | Python, TensorFlow, Keras |
-| [Diabetes Prediction](https://github.com/LoicLaffineur/Diabetes_Detection) | Early diabetes risk prediction using ML models | Python, Scikit‑learn, Pandas |
 
 ---
 
