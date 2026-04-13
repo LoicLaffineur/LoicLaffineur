@@ -1,36 +1,43 @@
-# Hi there 👋, I'm Loïc Laffineur
+# Hi, I'm Loïc Laffineur
 
-**Data Scientist & Data Analyst | Machine Learning, Computer Vision & Business Intelligence**
+**Data Scientist & Data Analyst · ML · GenAI · BI · SQL**
 
-I build end‑to‑end data solutions — from exploration to deployment — using Machine Learning, Computer Vision and BI tools to turn raw data into actionable insights.
-
-🔹 1 year of experience in fraud detection at the French National Health Insurance (CNAM)  
-🔹 Strong focus on ML pipelines, model explainability (SHAP), and data visualization  
-🔹 Open to freelance opportunities on [Malt](https://www.malt.fr/profile/loiclaffineur)
+→ 1 year at CNAM (French National Health Insurance) — fraud detection on national health data (SNDS) · +15% F1-Score · >€500k identified  
+→ Master's in Statistics & Data Science — Sorbonne / ISUP · TOEIC 940/990  
+→ Open to freelance missions (remote) on [Malt](https://www.malt.fr/profile/loiclaffineur)
 
 ---
 
-## 🛠 Featured Projects
+## Stack
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Churn Prediction](https://github.com/LoicLaffineur/Churn_Prediction_Telco) | Customer churn prediction with model explainability (recall: 0.80) | Python, Logistic Regression, XGBoost, SHAP |
-| [Customer Segmentation (UCI Online Retail)](https://github.com/LoicLaffineur/Online-Retail-Customer-Segmentation) | RFM analysis and K‑Means clustering to identify actionable customer segments | Python, Pandas, Scikit‑learn, PCA, Matplotlib |
-| [Pizza Sales Dashboard](https://github.com/LoicLaffineur/PowerBI-Pizza-Sales-Dashboard) | Interactive Power BI dashboard for sales insights, KPIs, and product performance | Power BI, DAX, Data Modeling |
-| [CIFAR‑10 Classification](https://github.com/LoicLaffineur/Cifar_10_CNN) | Image classification using CNNs and transfer learning (86% accuracy) | Python, TensorFlow, Keras |
+**ML / AI** — Python · Scikit-learn · XGBoost · PyTorch · TensorFlow · SHAP  
+**GenAI** — LLMs · RAG (FAISS) · LoRA fine-tuning · FastAPI · Streamlit  
+**BI & Data** — SQL · Power BI · DAX · Pandas · EDA · ETL/ELT  
+**Infra** — Docker · GCP · Git · BigQuery
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoicLaffineur&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoicLaffineur&show_icons=true)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [LLM Product Generator](https://github.com/LoicLaffineur/LLM-Product-Description-Generator) | End-to-end GenAI pipeline — multi-style prompting, RAG (+3.2%), LoRA fine-tuning (+1.4%), eval BLEU/ROUGE/Cosine, FastAPI + Streamlit | Mistral 7B · RAG · LoRA · FastAPI |
+| [Churn Prediction](https://github.com/LoicLaffineur/Churn_Prediction_Telco) | Telco churn classification with model explainability — recall 0.53 → 0.80, Streamlit scoring app | XGBoost · SHAP · Streamlit |
+| [CIFAR-10 Classification](https://github.com/LoicLaffineur/Cifar_10_CNN) | Custom CNN (~87% acc.) vs VGG19 transfer learning benchmark | PyTorch · TensorFlow · CNN |
+| [Customer Segmentation](https://github.com/LoicLaffineur/Online-Retail-Customer-Segmentation) | RFM analysis + K-Means (5 clusters) — actionable customer personas | K-Means · PCA · Pandas |
+| [Pizza Sales Dashboard](https://github.com/LoicLaffineur/PowerBI-Pizza-Sales-Dashboard) | Interactive Power BI dashboard — KPIs, DAX measures, automated reporting | Power BI · DAX |
 
 ---
 
-## 📫 Contact
+## GitHub Stats
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-blue)](https://laffineur-loic-portfolio.notion.site/Page-d-Accueil-26bcf4536432807fb4b8f928631031b7)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lo%C3%AFc-laffineur-8a49bb180/)  
-[![Email](https://img.shields.io/badge/Email-Me-red)](mailto:laffineur.loic@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoicLaffineur&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoicLaffineur&show_icons=true&theme=default&hide=issues)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loïc_Laffineur-0077B5?style=flat)](https://www.linkedin.com/in/loic-laffineur)
+[![Malt](https://img.shields.io/badge/Malt-loiclaffineur-FF6B35?style=flat)](https://www.malt.fr/profile/loiclaffineur)
+[![Email](https://img.shields.io/badge/Email-laffineur.loic%40gmail.com-grey?style=flat)](mailto:laffineur.loic@gmail.com)
