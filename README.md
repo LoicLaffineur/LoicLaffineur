@@ -29,10 +29,14 @@
 
 ---
 
-## GitHub Stats
+## Certifications
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoicLaffineur&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoicLaffineur&show_icons=true&theme=default&hide=issues)
+![Kaggle](https://img.shields.io/badge/Kaggle-Advanced_SQL_BigQuery-20BEFF?style=flat&logo=kaggle)
+![Kaggle](https://img.shields.io/badge/Kaggle-ML_Explainability-20BEFF?style=flat&logo=kaggle)
+![Google](https://img.shields.io/badge/Google_Cloud-GenAI_Fundamentals-4285F4?style=flat&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-Fundamentals-2496ED?style=flat&logo=docker)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_Learning-FF6F00?style=flat&logo=tensorflow)
 
 ---
 
