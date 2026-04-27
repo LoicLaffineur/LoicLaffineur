@@ -40,7 +40,7 @@ Also building and selling data‑oriented digital products:
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loïc_Laffineur-0077B5?style=flat)](https://www.linkedin.com/in/loic-laffineur)
-[![Malt](https://img.shields.io/badge/Malt-loiclaffineur-FF6B35?style=flat)](https://www.malt.fr/profile/loiclaffineur)
+[![Malt](https://img.shields.io/badge/Malt-loiclaffineur-E2001A?style=flat)](https://www.malt.fr/profile/loiclaffineur)
 [![Etsy](https://img.shields.io/badge/Etsy-LoicDataStudio-FF6B35?style=flat&logo=etsy)](https://www.etsy.com/shop/LoicDataStudio)
 [![Email](https://img.shields.io/badge/Email-laffineur.loic%40gmail.com-grey?style=flat)](mailto:laffineur.loic@gmail.com)
 
