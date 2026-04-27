@@ -31,9 +31,10 @@ Transform raw data and business questions into actionable insights, forecasts, a
 
 Available for freelance missions (remote) via [Malt](https://www.malt.fr/profile/loiclaffineur).
 
-Also building and selling data‑oriented digital products:
-- SQL / Python / Pandas / etc. cheatsheets on [Etsy](https://www.etsy.com/shop/LoicDataStudio).
-- Miniprojects & templates for Data Analysts (streaming soon).
+Building and selling data‑oriented digital products for students and junior data professionals:
+- SQL, Python, Pandas, Stats, and Dev cheatsheets on [Etsy](https://www.etsy.com/shop/LoicDataStudio).
+- Guided mini‑projects and templates to help learners transform knowledge into practice.
+- Upcoming “Data Analyst Starter Pack” (cheatsheets + mini‑projects + planner).
 
 --- 
 
