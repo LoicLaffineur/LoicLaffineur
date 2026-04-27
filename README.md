@@ -10,10 +10,10 @@ Transform raw data and business questions into actionable insights, forecasts, a
 
 ## Stack
 
-**ML / AI** — Python · Scikit-learn · XGBoost · PyTorch · TensorFlow · SHAP  
-**GenAI** — LLMs · RAG (FAISS) · LoRA fine-tuning · FastAPI · Streamlit  
-**BI & Data** — SQL · Power BI · DAX · Pandas · EDA · ETL/ELT  
-**Infra** — Docker · GCP · Git · BigQuery
+- **ML / AI** — Python, Scikit‑learn, XGBoost, PyTorch, TensorFlow, SHAP
+- **GenAI** — LLMs, RAG (FAISS), LoRA fine‑tuning, FastAPI, Streamlit
+- **BI & Data** — SQL, Power BI, DAX, Pandas, EDA, ETL/ELT
+- **Infra** — Docker, GCP, Git, BigQuery
 
 ---
 
@@ -23,9 +23,9 @@ Transform raw data and business questions into actionable insights, forecasts, a
 |---------|-------------|-------|
 | [LLM Product Generator](https://github.com/LoicLaffineur/LLM-Product-Description-Generator) | End-to-end GenAI pipeline — multi-style prompting, RAG (+3.2%), LoRA fine-tuning (+1.4%), eval BLEU/ROUGE/Cosine, FastAPI + Streamlit | Mistral 7B · RAG · LoRA · FastAPI |
 | [Churn Prediction](https://github.com/LoicLaffineur/Churn_Prediction_Telco) | Telco churn classification with model explainability — recall 0.53 → 0.80, Streamlit scoring app | XGBoost · SHAP · Streamlit |
-| [CIFAR-10 Classification](https://github.com/LoicLaffineur/Cifar_10_CNN) | Custom CNN (~87% acc.) vs VGG19 transfer learning benchmark | PyTorch · TensorFlow · CNN |
 | [Customer Segmentation](https://github.com/LoicLaffineur/Online-Retail-Customer-Segmentation) | RFM analysis + K-Means (5 clusters) — actionable customer personas | K-Means · PCA · Pandas |
 | [Pizza Sales Dashboard](https://github.com/LoicLaffineur/PowerBI-Pizza-Sales-Dashboard) | Interactive Power BI dashboard — KPIs, DAX measures, automated reporting | Power BI · DAX |
+| [CIFAR-10 Classification](https://github.com/LoicLaffineur/Cifar_10_CNN) | Custom CNN (~87% acc.) vs VGG19 transfer learning benchmark | PyTorch · TensorFlow · CNN |
 
 ---
 
