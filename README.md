@@ -1,10 +1,10 @@
-# Hi, I'm Loïc Laffineur
+# Loïc Laffineur — Data Scientist & Data Analyst
 
-**Data Scientist & Data Analyst · ML · GenAI · BI · SQL**
+Transform raw data and business questions into actionable insights, forecasts, and scalable AI‑powered tools.
 
-→ 1 year at CNAM (French National Health Insurance) — fraud detection on national health data (SNDS) · +15% F1-Score · >€500k identified  
-→ Master's in Statistics & Data Science — Sorbonne / ISUP · TOEIC 940/990  
-→ Open to freelance missions (remote) on [Malt](https://www.malt.fr/profile/loiclaffineur)
+- 1 year at CNAM (French National Health Insurance) — fraud detection on national health data (SNDS), improving F1‑score by +15% and supporting the identification of >€500k in suspicious claims.
+- Master’s in Statistics & Data Science — Sorbonne / ISUP · TOEIC 940/990.
+- Open to freelance missions (remote) on [Malt](https://www.malt.fr/profile/loiclaffineur).
 
 ---
 
