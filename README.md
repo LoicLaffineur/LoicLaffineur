@@ -21,11 +21,11 @@ Transform raw data and business questions into actionable insights, forecasts, a
 
 | Project | Purpose | Tech Stack |
 |---------|---------|-----------|
-| [LLM Product Description Generator](https://github.com/LoicLaffineur/llm-product-description-generator) | End‑to‑end pipeline for automatic product description generation (e‑commerce), comparing prompt engineering, RAG, and LoRA fine‑tuning, with reproducible evaluation (BLEU, ROUGE, cosine). | Mistral 7B, RAG, LoRA, FastAPI, Streamlit |
-| [Telco Churn Prediction](https://github.com/LoicLaffineur/telco-churn-prediction) | Telco churn classification pipeline with model explainability (SHAP) and a Streamlit scoring app, lifting recall from 0.53 to 0.80 for better early‑warning of at‑risk customers. | XGBoost, SHAP, Streamlit |
+| [LLM Product Description Generator](https://github.com/LoicLaffineur/llm-product-description-generator) | End‑to‑end pipeline to automate product descriptions for e‑commerce, comparing prompt engineering, RAG, and LoRA fine‑tuning, with a reproducible evaluation layer (BLEU, ROUGE, cosine similarity). | Mistral‑7B, RAG, LoRA, FastAPI, Streamlit |
+| [Telco Churn Prediction](https://github.com/LoicLaffineur/telco-churn-prediction) | Telco churn prediction pipeline with model explainability (SHAP) and a Streamlit scoring app, lifting recall from 0.53 to 0.80 to surface at‑risk customers earlier. | XGBoost, SHAP, Streamlit |
 | [Customer RFM Segmentation](https://github.com/LoicLaffineur/ecommerce-rfm-segmentation) | RFM‑based customer segmentation (5 clusters) producing actionable personas for targeting, retention, and personalized marketing, starting from an online retail dataset. | K‑Means, PCA, Pandas |
-| [Sales Performance Dashboard](https://github.com/LoicLaffineur/sales-performance-dashboard-powerbi) | Interactive Power BI dashboard for pizza sales analysis, showcasing KPIs, DAX measures, and automated reporting, built from SQL‑extracted data. | Power BI, DAX, SQL |
-| [Image Classification CNN](https://github.com/LoicLaffineur/computer-vision-product-classifier) | Image classification pipeline on CIFAR‑10, benchmarking a custom CNN against VGG19 transfer learning, highlighting architecture choices and transfer‑learning benefits. | PyTorch, TensorFlow, CNN |
+| [Sales Performance Dashboard](https://github.com/LoicLaffineur/sales-performance-dashboard-powerbi) | Interactive Power BI dashboard for sales analysis and KPI monitoring, built on SQL‑prepared data and DAX‑based measures for automated reporting. | Power BI, DAX, SQL |
+| [Image Classification CNN](https://github.com/LoicLaffineur/computer-vision-product-classifier) | Image classification pipeline on CIFAR‑10, benchmarking a custom CNN against VGG19 transfer learning to highlight architectural choices and the trade‑offs of transfer learning. | TensorFlow, CNN, VGG19 |
 
 ## Freelance & Side Products
 
