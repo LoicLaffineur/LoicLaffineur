@@ -31,17 +31,11 @@ Transform raw data and business questions into actionable insights, forecasts, a
 
 Available for freelance missions (remote) via [Malt](https://www.malt.fr/profile/loiclaffineur).
 
-Building and selling data‑oriented digital products for students and junior data professionals:
-- SQL, Python, Pandas, Stats, and Dev cheatsheets on [Etsy](https://www.etsy.com/shop/LoicDataStudio).
-- Guided mini‑projects and templates to help learners transform knowledge into practice.
-- Upcoming “Data Analyst Starter Pack” (cheatsheets + mini‑projects + planner).
-
 --- 
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Loïc_Laffineur-0077B5?style=flat)](https://www.linkedin.com/in/loic-laffineur)
 [![Malt](https://img.shields.io/badge/Malt-loiclaffineur-E2001A?style=flat)](https://www.malt.fr/profile/loiclaffineur)
-[![Etsy](https://img.shields.io/badge/Etsy-LoicDataStudio-FF6B35?style=flat&logo=etsy)](https://www.etsy.com/shop/LoicDataStudio)
 [![Email](https://img.shields.io/badge/Email-laffineur.loic%40gmail.com-grey?style=flat)](mailto:laffineur.loic@gmail.com)
 
